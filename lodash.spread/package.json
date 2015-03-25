@@ -1,7 +1,7 @@
 {
-  "name": "lodash.attempt",
+  "name": "lodash.spread",
   "version": "3.2.0",
-  "description": "The modern build of lodash’s `_.attempt` as a module.",
+  "description": "The modern build of lodash’s `_.spread` as a module.",
   "homepage": "https://lodash.com/",
   "icon": "https://lodash.com/icon.svg",
   "license": "MIT",
@@ -15,8 +15,5 @@
     "Mathias Bynens <mathias@qiwi.be> (https://mathiasbynens.be/)"
   ],
   "repository": "lodash/lodash",
-  "scripts": { "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\"" },
-  "dependencies": {
-    "lodash.iserror": "^3.0.0"
-  }
+  "scripts": { "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\"" }
 }

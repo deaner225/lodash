@@ -1,7 +1,7 @@
 {
-  "name": "lodash.attempt",
+  "name": "lodash.fill",
   "version": "3.2.0",
-  "description": "The modern build of lodash’s `_.attempt` as a module.",
+  "description": "The modern build of lodash’s `_.fill` as a module.",
   "homepage": "https://lodash.com/",
   "icon": "https://lodash.com/icon.svg",
   "license": "MIT",
@@ -17,6 +17,6 @@
   "repository": "lodash/lodash",
   "scripts": { "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\"" },
   "dependencies": {
-    "lodash.iserror": "^3.0.0"
+    "lodash._isiterateecall": "^3.0.0"
   }
 }
